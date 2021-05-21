@@ -1,0 +1,8 @@
+puts [set m 20]
+puts [set y m+10]
+puts [set y $m+10]
+puts [set n [expr $m+10]]
+puts [set x 11]
+puts [set 111 1111]
+puts [set y [expr [expr $x*$x] /100]]
+puts [set name aiyush]
